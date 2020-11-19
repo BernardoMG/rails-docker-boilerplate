@@ -1,5 +1,5 @@
 # rails-docker-boilerplate
-Simple boilerplate to dockerize a Rails application with PostgresQL
+Simple boilerplate to dockerize a Rails application with PostgreSQL
 
 ## How to build and run the app
 
